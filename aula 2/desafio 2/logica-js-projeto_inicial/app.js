@@ -20,3 +20,5 @@ if (pontuacao >= 100) {
 }
 let saldoConta = 500; // Exemplo de saldo
 alert(`Seu saldo é de R$${saldoConta}.`);
+let nome = prompt('Qual o seu nome?');
+alert(`Boas vindas ${nome}`);
