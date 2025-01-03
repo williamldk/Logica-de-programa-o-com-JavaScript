@@ -18,3 +18,5 @@ if (pontuacao >= 100) {
 } else {
     console.log('Tente novamente para ganhar.');
 }
+let saldoConta = 500; // Exemplo de saldo
+alert(`Seu saldo é de R$${saldoConta}.`);
